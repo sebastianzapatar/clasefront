@@ -4,6 +4,7 @@ import { Mostrar1Estudiante } from "./Mostrar1Estudiante";
 
 export const MostrarEstudiantes = () => {
     const [estudiantesEIA, setestudiantesEIA] = useState(estudiantes);
+    setestudiantesEIA(estudiantesEIA);
   return (
     <>
         <h1>Lista Pretendientes Sofia</h1>
