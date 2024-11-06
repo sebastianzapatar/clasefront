@@ -8,8 +8,8 @@ export const Mostrar1Estudiante = ({estudiante}:EstudianteProp) => {
     <>
         <table>
             <thead>
-                <th>Nombre</th>
-                <th>foto</th>
+                <th>Name</th>
+                <th>Foto inmundo animal</th>
             </thead>
             <tbody>
                 <td>
